@@ -1,0 +1,39 @@
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+h3{
+    color: blue;
+}
+p {
+    color: red;
+}
+.TT_L{
+    border: 15px solid black;
+    border-radius: 25px;
+
+}
+body{
+    background-color: grey;
+}
+.Exp_Nav{
+    text-align: center;
+    border-radius: 25px;
+    border: 5px solid black;
+    background-color: lightgray;
+    margin: 5px;
+}
+.Granny{
+    text-align: center;
+    border-radius: 25px;
+    border: 5px solid black;
+    background-color: lightgray;
+    margin: 5px;
+}
+.MR_Fix{
+    text-align: center;
+    border-radius: 25px;
+    border: 5px solid black;
+    background-color: lightgray;
+    margin: 5px;
+}
